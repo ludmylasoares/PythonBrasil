@@ -1,5 +1,4 @@
 '''
- Autora: Ludmyla Oliveira Soares
  Data: 25/04/19
  03. Faça um Programa que peça dois números e imprima a soma
 '''
