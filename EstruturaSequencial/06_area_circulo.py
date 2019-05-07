@@ -1,5 +1,4 @@
 '''
- Autora: Ludmyla Oliveira Soares
  Data: 25/04/19
  06. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área
 '''
