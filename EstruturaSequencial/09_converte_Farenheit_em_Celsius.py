@@ -1,6 +1,5 @@
 
 '''
- Autora: Ludmyla Oliveira Soares
  Data: 28/04/19
  09. Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em g
      raus Celsius.
